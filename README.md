@@ -1,6 +1,7 @@
 # Service-Executable-Permissions-Checker
 
 serviceExePermissionsChecker v1.0
+
 Used for privilege escalation, looks for misconfigurations in folder security permissions by attempting to directly modify service executable names.  Finds items that other tools miss due to the way they do checks, which is often caused by overlapping permissions on files (ex. 'domain users' and 'everyone' groups have different access rights to the same folder).
     
 Usage (in empire): 
