@@ -9,7 +9,8 @@ Usage (in empire):
   2. scriptcmd sepc
   
 Example Output:  -- any items displayed are potentially misconfigured executables  
-  Beginning Search
+   Beginning Search
   
-  "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe"
-  Module execution completed, any hits should be displayed above
+   "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe"
+  
+   Module execution completed, any hits should be displayed above
